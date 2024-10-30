@@ -9,3 +9,7 @@ This is some regular body text.
 ```javascript
 var myVAR = "hello, world";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
